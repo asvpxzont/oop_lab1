@@ -1,0 +1,9 @@
+\\Mac\Home\Desktop\ООП\1ая\Figures\Figures\bin\Debug\Figures.exe.config
+\\Mac\Home\Desktop\ООП\1ая\Figures\Figures\obj\Debug\Figures.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\ООП\1ая\Figures\Figures\obj\Debug\Figures.Form1.resources
+\\Mac\Home\Desktop\ООП\1ая\Figures\Figures\obj\Debug\Figures.Properties.Resources.resources
+\\Mac\Home\Desktop\ООП\1ая\Figures\Figures\obj\Debug\Figures.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\ООП\1ая\Figures\Figures\bin\Debug\Figures.exe
+\\Mac\Home\Desktop\ООП\1ая\Figures\Figures\bin\Debug\Figures.pdb
+\\Mac\Home\Desktop\ООП\1ая\Figures\Figures\obj\Debug\Figures.exe
+\\Mac\Home\Desktop\ООП\1ая\Figures\Figures\obj\Debug\Figures.pdb
