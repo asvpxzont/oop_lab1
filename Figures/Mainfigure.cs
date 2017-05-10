@@ -7,19 +7,28 @@ using System.Drawing;
 
 namespace Figures
 {
-    abstract class Mainfigure
+    public class Mainfigure
     {
+        private Point point1;
+        public Point Point1
+        {
+            get { return point1; }
+            set { point1 = value; }
+        }
+        private Point point2;
+        public Point Point2
+        {
+            get { return point2; }
+            set { point2 = value; }
+        }
         public Mainfigure()
         {
-            ListOfPoints = new List<Point>();
             pen = new Pen(Color.Black, 1);
         }
 
-        public List<Point> ListOfPoints { get; set; }
-        public int NumberOfPoints { get; set; }
         public Pen pen { get; set; } 
 
-        public virtual void Draw(Graphics g) {}
+        public typesoffigures type { get; set; }
 
     }
 
